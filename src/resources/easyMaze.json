@@ -1,0 +1,212 @@
+{
+  "rooms": {
+    "room0": {
+      "canStartHere": "true",
+      "roomNumber": 0,
+      "passages": "SE",
+      "contents": "treasure",
+      "treasureType": "silver coin",
+      "threatType": ""
+    },
+    "room1": {
+      "canStartHere": "true",
+      "roomNumber": 1,
+      "passages": "SW",
+      "contents": "treasure",
+      "treasureType": "silver coin",
+      "threatType": ""
+    },
+    "room2": {
+      "canStartHere": "false",
+      "roomNumber": 2,
+      "passages": "ES",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "dragon"
+    },
+    "room3": {
+      "canStartHere": "false",
+      "roomNumber": 3,
+      "passages": "ESW",
+      "contents": "treasure",
+      "treasureType": "diamond",
+      "threatType": ""
+    },
+    "room4": {
+      "canStartHere": "false",
+      "roomNumber": 4,
+      "passages": "ESW",
+      "contents": "treasure",
+      "treasureType": "chest",
+      "threatType": ""
+    },
+    "room5": {
+      "canStartHere": "true",
+      "roomNumber": 5,
+      "passages": "NS",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "skeleton"
+    },
+    "room6": {
+      "canStartHere": "true",
+      "roomNumber": 6,
+      "passages": "NES",
+      "contents": "treasure",
+      "treasureType": "silver coin",
+      "threatType": ""
+    },
+    "room7": {
+      "canStartHere": "true",
+      "roomNumber": 7,
+      "passages": "NSW",
+      "contents": "treasure",
+      "treasureType": "silver coin",
+      "threatType": ""
+    },
+    "room8": {
+      "canStartHere": "false",
+      "roomNumber": 8,
+      "passages": "NES",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "dragon"
+    },
+    "room9": {
+      "canStartHere": "false",
+      "roomNumber": 9,
+      "passages": "ESW",
+      "contents": "treasure",
+      "treasureType": "chest",
+      "threatType": ""
+    },
+    "room10": {
+      "canStartHere": "true",
+      "roomNumber": 10,
+      "passages": "NES",
+      "contents": "treasure",
+      "treasureType": "silver coin",
+      "threatType": ""
+    },
+    "room11": {
+      "canStartHere": "true",
+      "roomNumber": 11,
+      "passages": "NW",
+      "contents": "treasure",
+      "treasureType": "gold coin",
+      "threatType": ""
+    },
+    "room12": {
+      "canStartHere": "true",
+      "roomNumber": 12,
+      "passages": "NES",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "skeleton"
+    },
+    "room13": {
+      "canStartHere": "true",
+      "roomNumber": 13,
+      "passages": "NW",
+      "contents": "treasure",
+      "treasureType": "gold coin",
+      "threatType": ""
+    },
+    "room14": {
+      "canStartHere": "false",
+      "roomNumber": 14,
+      "passages": "",
+      "contents": "",
+      "treasureType": "",
+      "threatType": ""
+    },
+    "room15": {
+      "canStartHere": "false",
+      "roomNumber": 15,
+      "passages": "NE",
+      "contents": "treasure",
+      "treasureType": "bow",
+      "threatType": ""
+    },
+    "room16": {
+      "canStartHere": "true",
+      "roomNumber": 16,
+      "passages": "ESW",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "skeleton"
+    },
+    "room17": {
+      "canStartHere": "true",
+      "roomNumber": 17,
+      "passages": "NEW",
+      "contents": "treasure",
+      "treasureType": "silver coin",
+      "threatType": ""
+    },
+    "room18": {
+      "canStartHere": "true",
+      "roomNumber": 18,
+      "passages": "ESW",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "skeleton"
+    },
+    "room19": {
+      "canStartHere": "true",
+      "roomNumber": 19,
+      "passages": "SW",
+      "contents": "treasure",
+      "treasureType": "diamond",
+      "threatType": ""
+    },
+    "room20": {
+      "canStartHere": "false",
+      "roomNumber": 20,
+      "passages": "",
+      "contents": "",
+      "treasureType": "",
+      "threatType": ""
+    },
+    "room21": {
+      "canStartHere": "true",
+      "roomNumber": 21,
+      "passages": "NE",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "skeleton"
+    },
+    "room22": {
+      "canStartHere": "true",
+      "roomNumber": 22,
+      "passages": "EW",
+      "contents": "treasure",
+      "treasureType": "chest",
+      "threatType": ""
+    },
+    "room23": {
+      "canStartHere": "true",
+      "roomNumber": 23,
+      "passages": "NW",
+      "contents": "treasure",
+      "treasureType": "gold coin",
+      "threatType": ""
+    },
+    "room24": {
+      "canStartHere": "false",
+      "roomNumber": 24,
+      "passages": "NE",
+      "contents": "threat",
+      "treasureType": "",
+      "threatType": "dragon"
+    },
+    "room25": {
+      "canStartHere": "false",
+      "roomNumber": 25,
+      "passages": "W",
+      "contents": "",
+      "treasureType": "",
+      "threatType": ""
+    }
+  }
+}
